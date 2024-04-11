@@ -1,21 +1,6 @@
-## Urban Sound Classification 
+## Silent Guard Audio Classification
 
-#### Notebooks
-
-<ul>
-<li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Feedforward%20Neural%20Network.ipynb">
-Feedforward Network</a><a href="http://aqibsaeed.github.io/2016-09-03-urban-sound-classification-part-1/"> (Blogpost)</a></p>
-</li>
-<li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Convolutional%20Neural%20Network.ipynb">Convolutional Network</a> <a href="http://aqibsaeed.github.io/2016-09-24-urban-sound-classification-part-2/"> (Blogpost)</a></p>
-</li>
-<li>
-<p><a href="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/Recurrent%20Neural%20Network.ipynb">Recurrent Network</a></p>
-</li>
-</ul>
-
-<p align="center"><img src="https://github.com/aqibsaeed/Urban-Sound-Classification/blob/master/urban-sound-spectrogram.png"/></p>
+The Silent Guard Audio Classification identifies and classifies dangerous car sounds into different types of car sounds in order to send a signal to the bracelet to vibrate to protect the deaf user. This is the deep learning algorithm used for the Silent Guard project for BME 261L at the University of Texas at Austin. 
 
 #### Tools
 
